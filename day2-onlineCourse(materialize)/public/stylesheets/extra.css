@@ -1,0 +1,15 @@
+.dib{
+    display:inline-block!important;
+}
+
+.margin-top{
+    margin-top: 5px;
+}
+
+.margin-auto{
+    margin: 0 auto;
+}
+
+.font-bold{
+    font-weight: bolder!important;
+}

@@ -1,0 +1,58 @@
+.logo{
+    font-size: 28px!important;
+}
+
+.shadow{
+    box-shadow: 2px 2px 1px #efefef;
+}
+
+.padding-large{
+    padding: 10px 0;
+}
+
+.padding-all-small{
+    padding: 5px;
+}
+
+.container{
+    width: 96%;
+    margin: 0px auto;
+    padding-top: 10px;
+}
+
+.to-left{
+    float:left;
+}
+
+.to-right{
+    float: right;
+}
+
+.clear-both{
+    clear: both;
+}
+/* new style*/
+.card-title-image{
+    float: left;
+    margin-right: 10px;
+}
+
+.card-title-image img {
+    border-radius: 50%;
+    width:30px;
+    height:30px;
+}
+
+/* Override*/
+.hero{
+    padding: 2rem 0;
+}
+
+.hero-container{
+    margin: 0 auto;
+    background-image:url('/public/imgs/developer.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 96%;   
+}

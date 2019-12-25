@@ -1,0 +1,14 @@
+.big-image{
+    height:200px;
+}
+
+.small-image{
+    height:auto;
+}
+
+.product-header{
+    width: 50%;
+    height: 10%;
+    margin: 15% auto;
+    vertical-align: middle!important;
+}
